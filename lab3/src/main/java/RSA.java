@@ -1,9 +1,6 @@
-package lab3;
-
 import java.security.SecureRandom;
 
 import java.math.BigInteger;
-import java.sql.SQLOutput;
 
 public class RSA {
 
